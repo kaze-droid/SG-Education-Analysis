@@ -1,0 +1,201 @@
+year,gender,nmc_course_level,intake_count
+2011,Male,Engineering: Diploma,70
+2011,Male,Engineering: Higher NITEC,1701
+2011,Male,Engineering: NITEC,4042
+2011,Male,Info-Communications Technology: Higher NITEC,420
+2011,Male,Info-Communications Technology: NITEC,791
+2011,Male,Business & Services: Diploma,8
+2011,Male,Business & Services: Higher NITEC,804
+2011,Male,Business & Services: NITEC,986
+2011,Female,Engineering: Diploma,4
+2011,Female,Engineering: Higher NITEC,401
+2011,Female,Engineering: NITEC,1072
+2011,Female,Info-Communications Technology: Higher NITEC,207
+2011,Female,Info-Communications Technology: NITEC,463
+2011,Female,Business & Services: Diploma,12
+2011,Female,Business & Services: Higher NITEC,1443
+2011,Female,Business & Services: NITEC,2028
+2012,Male,Engineering: Diploma,45
+2012,Male,Engineering: Higher NITEC,1776
+2012,Male,Engineering: NITEC,3967
+2012,Male,Info-Communications Technology: Higher NITEC,412
+2012,Male,Info-Communications Technology: NITEC,755
+2012,Male,Business & Services: Diploma,10
+2012,Male,Business & Services: Higher NITEC,879
+2012,Male,Business & Services: NITEC,1132
+2012,Female,Engineering: Diploma,5
+2012,Female,Engineering: Higher NITEC,386
+2012,Female,Engineering: NITEC,868
+2012,Female,Info-Communications Technology: Higher NITEC,197
+2012,Female,Info-Communications Technology: NITEC,470
+2012,Female,Business & Services: Diploma,8
+2012,Female,Business & Services: Higher NITEC,1407
+2012,Female,Business & Services: NITEC,1995
+2013,Male,Engineering: Diploma,60
+2013,Male,Engineering: Higher NITEC,1865
+2013,Male,Engineering: NITEC,3920
+2013,Male,Info-Communications Technology: Higher NITEC,541
+2013,Male,Info-Communications Technology: NITEC,825
+2013,Male,Business & Services: Diploma,16
+2013,Male,Business & Services: Higher NITEC,906
+2013,Male,Business & Services: NITEC,1083
+2013,Female,Engineering: Diploma,4
+2013,Female,Engineering: Higher NITEC,543
+2013,Female,Engineering: NITEC,834
+2013,Female,Info-Communications Technology: Higher NITEC,250
+2013,Female,Info-Communications Technology: NITEC,449
+2013,Female,Business & Services: Diploma,3
+2013,Female,Business & Services: Higher NITEC,1458
+2013,Female,Business & Services: NITEC,2141
+2014,Male,Engineering: Diploma,55
+2014,Male,Engineering: Higher NITEC,1923
+2014,Male,Engineering: NITEC,3973
+2014,Male,Info-Communications Technology: Higher NITEC,563
+2014,Male,Info-Communications Technology: NITEC,811
+2014,Male,Business & Services: Diploma,12
+2014,Male,Business & Services: Higher NITEC,849
+2014,Male,Business & Services: NITEC,1112
+2014,Female,Engineering: Diploma,4
+2014,Female,Engineering: Higher NITEC,508
+2014,Female,Engineering: NITEC,959
+2014,Female,Info-Communications Technology: Higher NITEC,275
+2014,Female,Info-Communications Technology: NITEC,406
+2014,Female,Business & Services: Diploma,8
+2014,Female,Business & Services: Higher NITEC,1495
+2014,Female,Business & Services: NITEC,2121
+2015,Male,Engineering: Diploma,65
+2015,Male,Engineering: Higher NITEC,2113
+2015,Male,Engineering: NITEC,3558
+2015,Male,Info-Communications Technology: Higher NITEC,611
+2015,Male,Info-Communications Technology: NITEC,777
+2015,Male,Business & Services: Diploma,9
+2015,Male,Business & Services: Higher NITEC,769
+2015,Male,Business & Services: NITEC,1292
+2015,Female,Engineering: Diploma,7
+2015,Female,Engineering: Higher NITEC,561
+2015,Female,Engineering: NITEC,793
+2015,Female,Info-Communications Technology: Higher NITEC,286
+2015,Female,Info-Communications Technology: NITEC,396
+2015,Female,Business & Services: Diploma,11
+2015,Female,Business & Services: Higher NITEC,1048
+2015,Female,Business & Services: NITEC,2277
+2016,Male,Engineering: Diploma,74
+2016,Male,Engineering: Higher NITEC,2182
+2016,Male,Engineering: NITEC,3467
+2016,Male,Info-Communications Technology: Higher NITEC,553
+2016,Male,Info-Communications Technology: NITEC,836
+2016,Male,Business & Services: Diploma,12
+2016,Male,Business & Services: Higher NITEC,930
+2016,Male,Business & Services: NITEC,1284
+2016,Female,Engineering: Diploma,6
+2016,Female,Engineering: Higher NITEC,604
+2016,Female,Engineering: NITEC,768
+2016,Female,Info-Communications Technology: Higher NITEC,282
+2016,Female,Info-Communications Technology: NITEC,380
+2016,Female,Business & Services: Diploma,8
+2016,Female,Business & Services: Higher NITEC,1404
+2016,Female,Business & Services: NITEC,2352
+2017,Male,Engineering: Diploma,81
+2017,Male,Engineering: Higher NITEC,2316
+2017,Male,Engineering: NITEC,3672
+2017,Male,Info-Communications Technology: Higher NITEC,528
+2017,Male,Info-Communications Technology: NITEC,867
+2017,Male,Business & Services: Diploma,16
+2017,Male,Business & Services: Higher NITEC,938
+2017,Male,Business & Services: NITEC,1363
+2017,Female,Engineering: Diploma,10
+2017,Female,Engineering: Higher NITEC,608
+2017,Female,Engineering: NITEC,907
+2017,Female,Info-Communications Technology: Higher NITEC,270
+2017,Female,Info-Communications Technology: NITEC,396
+2017,Female,Business & Services: Diploma,5
+2017,Female,Business & Services: Higher NITEC,1554
+2017,Female,Business & Services: NITEC,2303
+2018,Male,Engineering: Diploma,87
+2018,Male,Engineering: Work-Study Diploma,55
+2018,Male,Engineering: Higher NITEC,2409
+2018,Male,Engineering: NITEC,3205
+2018,Male,Info-Communications Technology: Work-Study Diploma,17
+2018,Male,Info-Communications Technology: Higher NITEC,646
+2018,Male,Info-Communications Technology: NITEC,745
+2018,Male,Business & Services: Diploma,19
+2018,Male,Business & Services: Work-Study Diploma,4
+2018,Male,Business & Services: Higher NITEC,1054
+2018,Male,Business & Services: NITEC,1192
+2018,Female,Engineering: Diploma,9
+2018,Female,Engineering: Work-Study Diploma,4
+2018,Female,Engineering: Higher NITEC,646
+2018,Female,Engineering: NITEC,775
+2018,Female,Info-Communications Technology:Work-Study  Diploma,7
+2018,Female,Info-Communications Technology: Higher NITEC,274
+2018,Female,Info-Communications Technology: NITEC,344
+2018,Female,Business & Services: Diploma,3
+2018,Female,Business & Services: Work-Study Diploma,22
+2018,Female,Business & Services: Higher NITEC,1546
+2018,Female,Business & Services: NITEC,2155
+2019,Male,Engineering: Diploma,61
+2019,Male,Engineering: Work-Study Diploma,110
+2019,Male,Engineering: Higher NITEC,2544
+2019,Male,Engineering: NITEC,3070
+2019,Male,Info-Communications Technology: Work-Study Diploma,25
+2019,Male,Info-Communications Technology: Higher NITEC,751
+2019,Male,Info-Communications Technology: NITEC,719
+2019,Male,Business & Services: Diploma,14
+2019,Male,Business & Services: Work-Study Diploma,46
+2019,Male,Business & Services: Higher NITEC,1074
+2019,Male,Business & Services: NITEC,1148
+2019,Female,Engineering: Diploma,8
+2019,Female,Engineering: Work-Study Diploma,13
+2019,Female,Engineering: Higher NITEC,706
+2019,Female,Engineering: NITEC,861
+2019,Female,Info-Communications Technology: Work-Study Diploma,14
+2019,Female,Info-Communications Technology: Higher NITEC,313
+2019,Female,Info-Communications Technology: NITEC,327
+2019,Female,Business & Services: Diploma,5
+2019,Female,Business & Services: Work-Study Diploma,100
+2019,Female,Business & Services: Higher NITEC,1631
+2019,Female,Business & Services: NITEC,2185
+2020,Male,Engineering: Diploma,77
+2020,Male,Engineering: Work-Study Diploma,173
+2020,Male,Engineering: Higher NITEC,2483
+2020,Male,Engineering: NITEC,2950
+2020,Male,Info-Communications Technology: Work-Study Diploma,47
+2020,Male,Info-Communications Technology: Higher NITEC,734
+2020,Male,Info-Communications Technology: NITEC,718
+2020,Male,Business & Services: Diploma,15
+2020,Male,Business & Services: Work-Study Diploma,81
+2020,Male,Business & Services: Higher NITEC,1025
+2020,Male,Business & Services: NITEC,1047
+2020,Female,Engineering: Diploma,5
+2020,Female,Engineering: Work-Study Diploma,30
+2020,Female,Engineering: Higher NITEC,646
+2020,Female,Engineering: NITEC,872
+2020,Female,Info-Communications Technology: Work-Study Diploma,32
+2020,Female,Info-Communications Technology: Higher NITEC,349
+2020,Female,Info-Communications Technology: NITEC,295
+2020,Female,Business & Services: Diploma,7
+2020,Female,Business & Services: Work-Study Diploma,120
+2020,Female,Business & Services: Higher NITEC,1556
+2020,Female,Business & Services: NITEC,2075
+2021,Male,Engineering: Diploma,77
+2021,Male,Engineering: Work-Study Diploma,194
+2021,Male,Engineering: Higher NITEC,2434
+2021,Male,Engineering: NITEC,2965
+2021,Male,Info-Communications Technology: Work-Study Diploma,56
+2021,Male,Info-Communications Technology: Higher NITEC,699
+2021,Male,Info-Communications Technology: NITEC,688
+2021,Male,Business & Services: Diploma,12
+2021,Male,Business & Services: Work-Study Diploma,100
+2021,Male,Business & Services: Higher NITEC,1001
+2021,Male,Business & Services: NITEC,1096
+2021,Female,Engineering: Diploma,3
+2021,Female,Engineering: Work-Study Diploma,30
+2021,Female,Engineering: Higher NITEC,728
+2021,Female,Engineering: NITEC,901
+2021,Female,Info-Communications Technology: Work-Study Diploma,16
+2021,Female,Info-Communications Technology: Higher NITEC,337
+2021,Female,Info-Communications Technology: NITEC,323
+2021,Female,Business & Services: Diploma,8
+2021,Female,Business & Services: Work-Study Diploma,141
+2021,Female,Business & Services: Higher NITEC,1644
+2021,Female,Business & Services: NITEC,2079

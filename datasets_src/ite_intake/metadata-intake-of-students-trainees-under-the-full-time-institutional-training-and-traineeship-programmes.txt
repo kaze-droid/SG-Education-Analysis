@@ -1,0 +1,59 @@
+# Metadata for Intake Count of Full-Time and Traineeship Programmes at ITE
+---
+Identifier: 'cc0b196c-33bf-4282-a7f0-0dfc268e9d21'
+Name: 'intake-of-students-trainees-under-the-full-time-institutional-training-and-traineeship-programmes'
+Title: 'Intake Count of Full-Time and Traineeship Programmes at ITE'
+Description: 'Intake Count of Full-Time and Traineeship Programmes at ITE'
+Topics:
+  - 'Education'
+Keywords:
+  - 'Diploma'
+  - 'Enrolment'
+  - 'ITE'
+  - 'Schools'
+  - 'Students'
+  - 'Tertiary Education'
+  - 'Traineeship'
+Publisher:
+  Name: 'Institute of Technical Education'
+  Admin 1:
+    Name: 'Wong Fang Leng'
+    Department: 'Academic Planning'
+    Email: 'Wong_Fang_Leng@ite.edu.sg'
+Sources:
+  - 'Institute of Technical Education'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2011-01-01 to 2021-12-31'
+Last Updated: '2022-06-10T03:24:38.021460'
+Resources:
+  -
+    Identifier: 'dbfaf6e5-8dba-4c48-864b-0b90196e6b4b'
+    Title: 'Intake Count of Full-Time and Traineeship Programmes at ITE'
+    Url: 'https://storage.data.gov.sg/intake-of-students-trainees-under-the-full-time-institutional-training-and-traineeship-programmes/resources/intake-count-of-full-time-and-traineeship-programmes-at-ite-2022-06-10T03-24-37Z.csv'
+    Format: 'CSV'
+    Coverage: '2011-01-01 to 2021-12-31'
+    Last Updated: '2022-06-10T03:24:37.411999'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'gender'
+        Title: 'Gender'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'nmc_course_level'
+        Title: 'National Manpower Council Course level'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'intake_count'
+        Title: 'Intake'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Number of Students'
