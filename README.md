@@ -54,7 +54,7 @@ _The first two datasets are from MOE while the last three datasets are from Data
 File structure:
 - datasets_cleaned => contains the cleaned csv files
 - datasets_src => contains the csv files for all the original uncleaned datasets
-- datasets.zip => contains the backup zip file for the datasets (incase datasets_src gets compromised)
+- datasets.zip => contains the backup zip file for the datasets
 - clean.ipynb => to clean the data from datasets_stc 
 - main.ipynb => where all the code will be
 - README.md => contains all the source for the datasets

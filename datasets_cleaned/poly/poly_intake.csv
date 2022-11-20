@@ -1,6 +1,6 @@
 year,sex,course,intake,enrolment,graduates
-2005,M,Arts` Humanities and the Social Sciences,441,1055,248
-2005,F,Arts` Humanities and the Social Sciences,687,1538,302
+2005,M,Arts` Humanities and the Social Sciences,647,1758,538
+2005,F,Arts` Humanities and the Social Sciences,1150,2813,619
 2005,M,Architecture and Built Environment,203,596,176
 2005,F,Architecture and Built Environment,312,870,249
 2005,M,Business,1094,3105,774
@@ -11,20 +11,14 @@ year,sex,course,intake,enrolment,graduates
 2005,F,Engineering,2097,5939,2005
 2005,M,Health Sciences,313,991,139
 2005,F,Health Sciences,1326,3971,877
-2005,M,Arts` Humanities and the Social Sciences,10,10,0
-2005,F,Arts` Humanities and the Social Sciences,71,73,0
 2005,M,Information & Digital Technologies,2235,6542,1892
 2005,F,Information & Digital Technologies,1887,5065,1464
 2005,M,Law,43,120,31
 2005,F,Law,83,221,71
-2005,M,Arts` Humanities and the Social Sciences,124,397,137
-2005,F,Arts` Humanities and the Social Sciences,324,1029,282
 2005,M,Sciences,497,1166,321
 2005,F,Sciences,712,1678,447
-2005,M,Arts` Humanities and the Social Sciences,72,296,153
-2005,F,Arts` Humanities and the Social Sciences,68,173,35
-2006,M,Arts` Humanities and the Social Sciences,558,1361,223
-2006,F,Arts` Humanities and the Social Sciences,742,1894,319
+2006,M,Arts` Humanities and the Social Sciences,822,2108,459
+2006,F,Arts` Humanities and the Social Sciences,1212,3260,665
 2006,M,Architecture and Built Environment,254,667,161
 2006,F,Architecture and Built Environment,342,955,233
 2006,M,Business,1457,3644,838
@@ -35,20 +29,14 @@ year,sex,course,intake,enrolment,graduates
 2006,F,Engineering,2108,6197,1786
 2006,M,Health Sciences,401,1179,248
 2006,F,Health Sciences,1554,4428,1080
-2006,M,Arts` Humanities and the Social Sciences,9,17,0
-2006,F,Arts` Humanities and the Social Sciences,66,136,0
 2006,M,Information & Digital Technologies,2244,6619,1874
 2006,F,Information & Digital Technologies,1728,5134,1477
 2006,M,Law,46,132,25
 2006,F,Law,70,221,63
-2006,M,Arts` Humanities and the Social Sciences,140,409,120
-2006,F,Arts` Humanities and the Social Sciences,310,1019,296
 2006,M,Sciences,500,1286,301
 2006,F,Sciences,684,1777,460
-2006,M,Arts` Humanities and the Social Sciences,115,321,116
-2006,F,Arts` Humanities and the Social Sciences,94,211,50
-2007,M,Arts` Humanities and the Social Sciences,590,1580,298
-2007,F,Arts` Humanities and the Social Sciences,865,2221,409
+2007,M,Arts` Humanities and the Social Sciences,943,2439,546
+2007,F,Arts` Humanities and the Social Sciences,1393,3679,837
 2007,M,Architecture and Built Environment,261,732,176
 2007,F,Architecture and Built Environment,363,1010,273
 2007,M,Business,1649,4259,996
@@ -59,20 +47,14 @@ year,sex,course,intake,enrolment,graduates
 2007,F,Engineering,2054,6461,1685
 2007,M,Health Sciences,457,1263,355
 2007,F,Health Sciences,1653,4602,1400
-2007,M,Arts` Humanities and the Social Sciences,23,40,0
-2007,F,Arts` Humanities and the Social Sciences,88,222,0
 2007,M,Information & Digital Technologies,2318,6889,1840
 2007,F,Information & Digital Technologies,1651,5199,1410
 2007,M,Law,36,125,38
 2007,F,Law,81,226,65
-2007,M,Arts` Humanities and the Social Sciences,176,439,135
-2007,F,Arts` Humanities and the Social Sciences,354,989,377
 2007,M,Sciences,521,1452,311
 2007,F,Sciences,846,2095,453
-2007,M,Arts` Humanities and the Social Sciences,154,380,113
-2007,F,Arts` Humanities and the Social Sciences,86,247,51
-2008,M,Arts` Humanities and the Social Sciences,728,1821,381
-2008,F,Arts` Humanities and the Social Sciences,918,2355,582
+2008,M,Arts` Humanities and the Social Sciences,1243,3105,602
+2008,F,Arts` Humanities and the Social Sciences,1711,4288,1029
 2008,M,Architecture and Built Environment,296,792,173
 2008,F,Architecture and Built Environment,327,982,292
 2008,M,Business,2303,5591,1061
@@ -83,20 +65,14 @@ year,sex,course,intake,enrolment,graduates
 2008,F,Engineering,1809,6039,1996
 2008,M,Health Sciences,575,1421,348
 2008,F,Health Sciences,1788,5002,1327
-2008,M,Arts` Humanities and the Social Sciences,173,350,8
-2008,F,Arts` Humanities and the Social Sciences,306,603,67
 2008,M,Information & Digital Technologies,2236,6930,2014
 2008,F,Information & Digital Technologies,1707,5057,1716
 2008,M,Law,62,130,43
 2008,F,Law,66,204,78
-2008,M,Arts` Humanities and the Social Sciences,164,503,117
-2008,F,Arts` Humanities and the Social Sciences,378,1036,318
 2008,M,Sciences,521,1504,410
 2008,F,Sciences,833,2207,568
-2008,M,Arts` Humanities and the Social Sciences,178,431,96
-2008,F,Arts` Humanities and the Social Sciences,109,294,62
-2009,M,Arts` Humanities and the Social Sciences,748,2052,428
-2009,F,Arts` Humanities and the Social Sciences,942,2629,576
+2009,M,Arts` Humanities and the Social Sciences,1325,3543,738
+2009,F,Arts` Humanities and the Social Sciences,1861,4948,1057
 2009,M,Architecture and Built Environment,254,788,233
 2009,F,Architecture and Built Environment,291,936,307
 2009,M,Business,2191,6077,1409
@@ -107,20 +83,14 @@ year,sex,course,intake,enrolment,graduates
 2009,F,Engineering,1891,5922,1972
 2009,M,Health Sciences,586,1605,363
 2009,F,Health Sciences,1953,5477,1396
-2009,M,Arts` Humanities and the Social Sciences,214,491,57
-2009,F,Arts` Humanities and the Social Sciences,321,803,96
 2009,M,Information & Digital Technologies,2237,6905,1967
 2009,F,Information & Digital Technologies,1789,5192,1505
 2009,M,Law,47,132,41
 2009,F,Law,82,222,55
-2009,M,Arts` Humanities and the Social Sciences,214,557,132
-2009,F,Arts` Humanities and the Social Sciences,471,1186,303
 2009,M,Sciences,586,1561,452
 2009,F,Sciences,917,2416,592
-2009,M,Arts` Humanities and the Social Sciences,149,443,121
-2009,F,Arts` Humanities and the Social Sciences,127,330,82
-2010,M,Arts` Humanities and the Social Sciences,865,2297,490
-2010,F,Arts` Humanities and the Social Sciences,1074,2872,703
+2010,M,Arts` Humanities and the Social Sciences,1483,3998,846
+2010,F,Arts` Humanities and the Social Sciences,2069,5552,1236
 2010,M,Architecture and Built Environment,273,811,221
 2010,F,Architecture and Built Environment,330,923,318
 2010,M,Business,2140,6512,1582
@@ -131,20 +101,14 @@ year,sex,course,intake,enrolment,graduates
 2010,F,Engineering,1752,5666,1893
 2010,M,Health Sciences,633,1809,377
 2010,F,Health Sciences,2022,5779,1591
-2010,M,Arts` Humanities and the Social Sciences,291,680,92
-2010,F,Arts` Humanities and the Social Sciences,392,993,183
 2010,M,Information & Digital Technologies,2101,6768,2107
 2010,F,Information & Digital Technologies,1586,5117,1586
 2010,M,Law,58,152,34
 2010,F,Law,85,225,74
-2010,M,Arts` Humanities and the Social Sciences,179,593,123
-2010,F,Arts` Humanities and the Social Sciences,485,1347,254
 2010,M,Sciences,541,1660,407
 2010,F,Sciences,993,2686,663
-2010,M,Arts` Humanities and the Social Sciences,148,428,141
-2010,F,Arts` Humanities and the Social Sciences,118,340,96
-2011,M,Arts` Humanities and the Social Sciences,860,2503,573
-2011,F,Arts` Humanities and the Social Sciences,1130,3104,770
+2011,M,Arts` Humanities and the Social Sciences,1597,4371,1022
+2011,F,Arts` Humanities and the Social Sciences,2147,5908,1493
 2011,M,Architecture and Built Environment,316,817,268
 2011,F,Architecture and Built Environment,459,1063,297
 2011,M,Business,2279,6644,2035
@@ -155,20 +119,14 @@ year,sex,course,intake,enrolment,graduates
 2011,F,Engineering,1837,5550,1814
 2011,M,Health Sciences,631,1868,497
 2011,F,Health Sciences,1906,5879,1661
-2011,M,Arts` Humanities and the Social Sciences,348,843,151
-2011,F,Arts` Humanities and the Social Sciences,422,1109,278
 2011,M,Information & Digital Technologies,2316,6750,2125
 2011,F,Information & Digital Technologies,1626,4939,1607
 2011,M,Law,64,169,42
 2011,F,Law,77,235,53
-2011,M,Arts` Humanities and the Social Sciences,169,523,163
-2011,F,Arts` Humanities and the Social Sciences,418,1283,348
 2011,M,Sciences,603,1774,446
 2011,F,Sciences,984,2846,732
-2011,M,Arts` Humanities and the Social Sciences,220,502,135
-2011,F,Arts` Humanities and the Social Sciences,177,412,97
-2012,M,Arts` Humanities and the Social Sciences,860,2637,704
-2012,F,Arts` Humanities and the Social Sciences,1164,3346,855
+2012,M,Arts` Humanities and the Social Sciences,1586,4669,1239
+2012,F,Arts` Humanities and the Social Sciences,2291,6275,1714
 2012,M,Architecture and Built Environment,356,903,241
 2012,F,Architecture and Built Environment,423,1185,271
 2012,M,Business,2294,6743,2061
@@ -179,20 +137,14 @@ year,sex,course,intake,enrolment,graduates
 2012,F,Engineering,1753,5301,1815
 2012,M,Health Sciences,568,1823,555
 2012,F,Health Sciences,1675,5515,1923
-2012,M,Arts` Humanities and the Social Sciences,340,966,188
-2012,F,Arts` Humanities and the Social Sciences,461,1248,289
 2012,M,Information & Digital Technologies,2417,6880,2062
 2012,F,Information & Digital Technologies,1559,4797,1580
 2012,M,Law,60,182,39
 2012,F,Law,79,232,75
-2012,M,Arts` Humanities and the Social Sciences,169,513,201
-2012,F,Arts` Humanities and the Social Sciences,459,1182,452
 2012,M,Sciences,589,1764,546
 2012,F,Sciences,1050,2971,845
-2012,M,Arts` Humanities and the Social Sciences,217,553,146
-2012,F,Arts` Humanities and the Social Sciences,207,499,118
-2013,M,Arts` Humanities and the Social Sciences,883,2546,783
-2013,F,Arts` Humanities and the Social Sciences,1214,3389,963
+2013,M,Arts` Humanities and the Social Sciences,1616,4668,1359
+2013,F,Arts` Humanities and the Social Sciences,2314,6581,1912
 2013,M,Architecture and Built Environment,349,986,277
 2013,F,Architecture and Built Environment,447,1310,353
 2013,M,Business,2406,7030,2035
@@ -203,20 +155,14 @@ year,sex,course,intake,enrolment,graduates
 2013,F,Engineering,1691,5205,1618
 2013,M,Health Sciences,568,1749,601
 2013,F,Health Sciences,1842,5413,1853
-2013,M,Arts` Humanities and the Social Sciences,331,1012,258
-2013,F,Arts` Humanities and the Social Sciences,425,1278,369
 2013,M,Information & Digital Technologies,2325,7102,2014
 2013,F,Information & Digital Technologies,1431,4520,1509
 2013,M,Law,64,187,54
 2013,F,Law,76,218,78
-2013,M,Arts` Humanities and the Social Sciences,188,522,175
-2013,F,Arts` Humanities and the Social Sciences,473,1328,463
 2013,M,Sciences,610,1785,547
 2013,F,Sciences,992,2980,922
-2013,M,Arts` Humanities and the Social Sciences,214,588,143
-2013,F,Arts` Humanities and the Social Sciences,202,586,117
-2014,M,Arts` Humanities and the Social Sciences,940,2685,725
-2014,F,Arts` Humanities and the Social Sciences,1183,3448,995
+2014,M,Arts` Humanities and the Social Sciences,1862,5456,1563
+2014,F,Arts` Humanities and the Social Sciences,2402,7054,2014
 2014,M,Architecture and Built Environment,326,1010,272
 2014,F,Architecture and Built Environment,471,1329,435
 2014,M,Business,2218,6984,2202
@@ -227,20 +173,14 @@ year,sex,course,intake,enrolment,graduates
 2014,F,Engineering,1558,4734,1612
 2014,M,Health Sciences,617,1748,575
 2014,F,Health Sciences,1659,5154,1838
-2014,M,Arts` Humanities and the Social Sciences,348,1027,315
-2014,F,Arts` Humanities and the Social Sciences,430,1299,388
 2014,M,Information & Digital Technologies,2067,6942,2094
 2014,F,Information & Digital Technologies,1230,4204,1483
 2014,M,Law,55,183,56
 2014,F,Law,79,224,66
-2014,M,Arts` Humanities and the Social Sciences,163,519,162
-2014,F,Arts` Humanities and the Social Sciences,491,1413,393
 2014,M,Sciences,607,1804,555
 2014,F,Sciences,1022,3010,931
-2014,M,Arts` Humanities and the Social Sciences,411,1225,361
-2014,F,Arts` Humanities and the Social Sciences,298,894,238
-2015,M,Arts` Humanities and the Social Sciences,718,2287,731
-2015,F,Arts` Humanities and the Social Sciences,1021,3186,977
+2015,M,Arts` Humanities and the Social Sciences,1503,5057,1602
+2015,F,Arts` Humanities and the Social Sciences,2292,7203,2287
 2015,M,Architecture and Built Environment,280,934,319
 2015,F,Architecture and Built Environment,390,1283,396
 2015,M,Business,1809,6231,2071
@@ -251,20 +191,14 @@ year,sex,course,intake,enrolment,graduates
 2015,F,Engineering,1705,5064,1659
 2015,M,Health Sciences,694,2166,604
 2015,F,Health Sciences,1996,5794,1693
-2015,M,Arts` Humanities and the Social Sciences,82,274,86
-2015,F,Arts` Humanities and the Social Sciences,248,773,257
 2015,M,Information & Digital Technologies,1963,6394,2115
 2015,F,Information & Digital Technologies,1074,3629,1298
 2015,M,Law,43,168,55
 2015,F,Law,73,222,71
-2015,M,Arts` Humanities and the Social Sciences,153,537,174
-2015,F,Arts` Humanities and the Social Sciences,456,1496,470
 2015,M,Sciences,551,1747,558
 2015,F,Sciences,864,2817,919
-2015,M,Arts` Humanities and the Social Sciences,550,1959,611
-2015,F,Arts` Humanities and the Social Sciences,567,1748,583
-2016,M,Arts` Humanities and the Social Sciences,710,2172,759
-2016,F,Arts` Humanities and the Social Sciences,1011,3064,1024
+2016,M,Arts` Humanities and the Social Sciences,1549,4776,1722
+2016,F,Arts` Humanities and the Social Sciences,2203,6882,2354
 2016,M,Architecture and Built Environment,252,832,323
 2016,F,Architecture and Built Environment,371,1207,420
 2016,M,Business,1800,5797,2178
@@ -275,20 +209,14 @@ year,sex,course,intake,enrolment,graduates
 2016,F,Engineering,1395,4721,1601
 2016,M,Health Sciences,643,2102,661
 2016,F,Health Sciences,1894,5704,1895
-2016,M,Arts` Humanities and the Social Sciences,86,262,92
-2016,F,Arts` Humanities and the Social Sciences,256,758,261
 2016,M,Information & Digital Technologies,1863,6023,2030
 2016,F,Information & Digital Technologies,906,3175,1275
 2016,M,Law,35,139,58
 2016,F,Law,66,218,68
-2016,M,Arts` Humanities and the Social Sciences,161,484,203
-2016,F,Arts` Humanities and the Social Sciences,457,1436,498
 2016,M,Sciences,507,1668,553
 2016,F,Sciences,789,2634,904
-2016,M,Arts` Humanities and the Social Sciences,592,1858,668
-2016,F,Arts` Humanities and the Social Sciences,479,1624,571
-2017,M,Arts` Humanities and the Social Sciences,738,2163,682
-2017,F,Arts` Humanities and the Social Sciences,1147,3128,1000
+2017,M,Arts` Humanities and the Social Sciences,1572,4644,1591
+2017,F,Arts` Humanities and the Social Sciences,2420,6847,2327
 2017,M,Architecture and Built Environment,324,850,295
 2017,F,Architecture and Built Environment,390,1129,441
 2017,M,Business,1903,5617,2032
@@ -299,20 +227,14 @@ year,sex,course,intake,enrolment,graduates
 2017,F,Engineering,1481,4518,1572
 2017,M,Health Sciences,634,1991,696
 2017,F,Health Sciences,1933,5807,1771
-2017,M,Arts` Humanities and the Social Sciences,93,256,90
-2017,F,Arts` Humanities and the Social Sciences,298,792,257
 2017,M,Information & Digital Technologies,2020,5877,1990
 2017,F,Information & Digital Technologies,889,2889,1099
 2017,M,Law,33,122,48
 2017,F,Law,64,208,72
-2017,M,Arts` Humanities and the Social Sciences,167,474,174
-2017,F,Arts` Humanities and the Social Sciences,475,1368,523
 2017,M,Sciences,526,1582,574
 2017,F,Sciences,778,2400,955
-2017,M,Arts` Humanities and the Social Sciences,574,1751,645
-2017,F,Arts` Humanities and the Social Sciences,500,1559,547
-2018,M,Arts` Humanities and the Social Sciences,783,2209,669
-2018,F,Arts` Humanities and the Social Sciences,1111,3215,941
+2018,M,Arts` Humanities and the Social Sciences,1689,4811,1403
+2018,F,Arts` Humanities and the Social Sciences,2315,6880,2152
 2018,M,Architecture and Built Environment,342,903,244
 2018,F,Architecture and Built Environment,382,1104,370
 2018,M,Business,1831,5618,1778
@@ -323,20 +245,14 @@ year,sex,course,intake,enrolment,graduates
 2018,F,Engineering,1473,4328,1543
 2018,M,Health Sciences,665,1947,670
 2018,F,Health Sciences,2093,5909,1895
-2018,M,Arts` Humanities and the Social Sciences,84,262,77
-2018,F,Arts` Humanities and the Social Sciences,268,809,233
 2018,M,Information & Digital Technologies,2003,5930,1751
 2018,F,Information & Digital Technologies,817,2608,996
 2018,M,Law,34,104,48
 2018,F,Law,70,197,76
-2018,M,Arts` Humanities and the Social Sciences,175,497,145
-2018,F,Arts` Humanities and the Social Sciences,500,1420,437
 2018,M,Sciences,459,1486,528
 2018,F,Sciences,773,2308,825
-2018,M,Arts` Humanities and the Social Sciences,647,1843,512
-2018,F,Arts` Humanities and the Social Sciences,436,1436,541
-2019,M,Arts` Humanities and the Social Sciences,692,2199,646
-2019,F,Arts` Humanities and the Social Sciences,1084,3290,934
+2019,M,Arts` Humanities and the Social Sciences,1432,4695,1464
+2019,F,Arts` Humanities and the Social Sciences,2154,6814,2092
 2019,M,Architecture and Built Environment,308,939,242
 2019,F,Architecture and Built Environment,326,1052,337
 2019,M,Business,1629,5432,1756
@@ -347,20 +263,14 @@ year,sex,course,intake,enrolment,graduates
 2019,F,Engineering,1409,4316,1271
 2019,M,Health Sciences,691,1988,596
 2019,F,Health Sciences,1901,5904,1834
-2019,M,Arts` Humanities and the Social Sciences,66,242,83
-2019,F,Arts` Humanities and the Social Sciences,258,816,242
 2019,M,Information & Digital Technologies,1921,5927,1705
 2019,F,Information & Digital Technologies,730,2412,843
 2019,M,Law,36,104,35
 2019,F,Law,69,200,61
-2019,M,Arts` Humanities and the Social Sciences,153,490,154
-2019,F,Arts` Humanities and the Social Sciences,437,1396,447
 2019,M,Sciences,445,1423,475
 2019,F,Sciences,691,2200,743
-2019,M,Arts` Humanities and the Social Sciences,521,1764,581
-2019,F,Arts` Humanities and the Social Sciences,375,1312,469
-2020,M,Arts` Humanities and the Social Sciences,662,2113,670
-2020,F,Arts` Humanities and the Social Sciences,1049,3199,1059
+2020,M,Arts` Humanities and the Social Sciences,1282,4488,1444
+2020,F,Arts` Humanities and the Social Sciences,2067,6453,2261
 2020,M,Architecture and Built Environment,295,904,283
 2020,F,Architecture and Built Environment,329,988,350
 2020,M,Business,1635,5149,1818
@@ -371,15 +281,9 @@ year,sex,course,intake,enrolment,graduates
 2020,F,Engineering,1224,4220,1363
 2020,M,Health Sciences,674,2031,586
 2020,F,Health Sciences,1842,5888,1789
-2020,M,Arts` Humanities and the Social Sciences,70,211,89
-2020,F,Arts` Humanities and the Social Sciences,228,698,259
 2020,M,Information & Digital Technologies,1883,5824,1808
 2020,F,Information & Digital Technologies,637,2173,802
 2020,M,Law,48,118,31
 2020,F,Law,60,210,62
-2020,M,Arts` Humanities and the Social Sciences,134,458,159
-2020,F,Arts` Humanities and the Social Sciences,415,1334,461
 2020,M,Sciences,440,1090,471
 2020,F,Sciences,669,1947,730
-2020,M,Arts` Humanities and the Social Sciences,416,1706,526
-2020,F,Arts` Humanities and the Social Sciences,375,1222,482
