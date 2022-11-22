@@ -1,56 +1,56 @@
 year,course_cluster,employed,ft_employment,gross median salary
-2017.0,Arts` Humanities and the Social Sciences,83.47,54.13,2823.0
-2017.0,Architecture and Built Environment,92.0,86.45,3600.0
-2017.0,Business,95.4,89.5,3200.0
-2017.0,Dentistry,100.0,100.0,4050.0
-2017.0,Education,100.0,100.0,3600.0
-2017.0,Engineering,86.7,79.5,3500.0
-2017.0,Health Sciences,95.93,89.4,3333.33
-2017.0,Information & Digital Technologies,94.6,90.1,4000.0
-2017.0,Sciences,82.6,65.3,3250.0
-2017.0,Law,96.4,92.8,5000.0
-2017.0,Medicine,100.0,100.0,5000.0
-2018.0,Arts` Humanities and the Social Sciences,85.8,54.73,2733.33
-2018.0,Architecture and Built Environment,93.9,89.15,3700.0
-2018.0,Business,94.4,89.1,3400.0
-2018.0,Dentistry,100.0,100.0,4050.0
-2018.0,Education,100.0,99.4,3800.0
-2018.0,Engineering,89.9,83.8,3600.0
-2018.0,Health Sciences,94.73,88.13,3366.67
-2018.0,Information & Digital Technologies,95.0,92.0,4022.0
-2018.0,Sciences,84.4,68.8,3313.0
-2018.0,Law,95.3,91.8,5000.0
-2018.0,Medicine,99.87,99.87,5183.33
-2019.0,Arts` Humanities and the Social Sciences,85.97,58.67,3400.0
-2019.0,Architecture and Built Environment,96.3,91.65,3800.0
-2019.0,Business,94.6,88.8,3500.0
-2019.0,Dentistry,100.0,97.3,4200.0
-2019.0,Education,100.0,100.0,3800.0
-2019.0,Engineering,88.4,83.3,3750.0
-2019.0,Health Sciences,97.43,89.87,3416.67
-2019.0,Information & Digital Technologies,95.4,92.7,4400.0
-2019.0,Sciences,86.9,71.5,3500.0
-2019.0,Law,97.0,95.0,5000.0
-2019.0,Medicine,99.6,99.6,5300.0
-2020.0,Arts` Humanities and the Social Sciences,84.53,42.43,3358.33
-2020.0,Architecture and Built Environment,93.95,81.75,3750.0
-2020.0,Business,95.3,76.0,3500.0
-2020.0,Dentistry,100.0,100.0,4200.0
-2020.0,Education,100.0,99.1,3800.0
-2020.0,Engineering,93.6,71.6,3900.0
-2020.0,Health Sciences,97.13,87.07,3400.0
-2020.0,Information & Digital Technologies,94.8,87.3,4760.0
-2020.0,Sciences,91.6,55.4,3500.0
-2020.0,Law,93.4,88.6,5000.0
-2020.0,Medicine,100.0,100.0,5250.0
-2021.0,Arts` Humanities and the Social Sciences,88.73,60.07,3383.33
-2021.0,Architecture and Built Environment,96.1,92.75,3800.0
-2021.0,Business,97.0,88.7,3723.0
-2021.0,Dentistry,100.0,100.0,4200.0
-2021.0,Education,100.0,100.0,3798.0
-2021.0,Engineering,94.0,86.9,3900.0
-2021.0,Health Sciences,94.17,85.03,3550.0
-2021.0,Information & Digital Technologies,97.8,93.7,5000.0
-2021.0,Sciences,91.7,75.8,3600.0
-2021.0,Law,97.9,95.5,5600.0
-2021.0,Medicine,99.87,99.87,5183.33
+2017,Arts` Humanities and the Social Sciences,83.47,54.13,2823
+2017,Architecture and Built Environment,92.0,86.45,3600
+2017,Business,95.4,89.5,3200
+2017,Dentistry,100.0,100.0,4050
+2017,Education,100.0,100.0,3600
+2017,Engineering,86.7,79.5,3500
+2017,Health Sciences,95.93,89.4,3333
+2017,Information & Digital Technologies,94.6,90.1,4000
+2017,Sciences,82.6,65.3,3250
+2017,Law,96.4,92.8,5000
+2017,Medicine,100.0,100.0,5000
+2018,Arts` Humanities and the Social Sciences,85.8,54.73,2733
+2018,Architecture and Built Environment,93.9,89.15,3700
+2018,Business,94.4,89.1,3400
+2018,Dentistry,100.0,100.0,4050
+2018,Education,100.0,99.4,3800
+2018,Engineering,89.9,83.8,3600
+2018,Health Sciences,94.73,88.13,3367
+2018,Information & Digital Technologies,95.0,92.0,4022
+2018,Sciences,84.4,68.8,3313
+2018,Law,95.3,91.8,5000
+2018,Medicine,99.87,99.87,5183
+2019,Arts` Humanities and the Social Sciences,85.97,58.67,3400
+2019,Architecture and Built Environment,96.3,91.65,3800
+2019,Business,94.6,88.8,3500
+2019,Dentistry,100.0,97.3,4200
+2019,Education,100.0,100.0,3800
+2019,Engineering,88.4,83.3,3750
+2019,Health Sciences,97.43,89.87,3417
+2019,Information & Digital Technologies,95.4,92.7,4400
+2019,Sciences,86.9,71.5,3500
+2019,Law,97.0,95.0,5000
+2019,Medicine,99.6,99.6,5300
+2020,Arts` Humanities and the Social Sciences,84.53,42.43,3358
+2020,Architecture and Built Environment,93.95,81.75,3750
+2020,Business,95.3,76.0,3500
+2020,Dentistry,100.0,100.0,4200
+2020,Education,100.0,99.1,3800
+2020,Engineering,93.6,71.6,3900
+2020,Health Sciences,97.13,87.07,3400
+2020,Information & Digital Technologies,94.8,87.3,4760
+2020,Sciences,91.6,55.4,3500
+2020,Law,93.4,88.6,5000
+2020,Medicine,100.0,100.0,5250
+2021,Arts` Humanities and the Social Sciences,88.73,60.07,3383
+2021,Architecture and Built Environment,96.1,92.75,3800
+2021,Business,97.0,88.7,3723
+2021,Dentistry,100.0,100.0,4200
+2021,Education,100.0,100.0,3798
+2021,Engineering,94.0,86.9,3900
+2021,Health Sciences,94.17,85.03,3550
+2021,Information & Digital Technologies,97.8,93.7,5000
+2021,Sciences,91.7,75.8,3600
+2021,Law,97.9,95.5,5600
+2021,Medicine,99.87,99.87,5183
