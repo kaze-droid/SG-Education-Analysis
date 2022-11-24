@@ -61,6 +61,10 @@ File structure:
 
 # To start
 
-1. Delete the entire contents of the directory 'datasets_cleaned'. To clean the data, run the cells inside 'clean.ipynb' (This will recreate the contents of 'datasets_cleaned')
-2. Run the cells inside 'main.ipynb' to see the analysis and visualization performed
-3. For a summary of the graphs head to the [powerpoint slides](https://google.com)
+1. Start by running:
+```bash
+pip3 install -r requirements.txt
+```
+2. Delete the entire contents of the directory 'datasets_cleaned'. To clean the data, run the cells inside 'clean.ipynb' (This will recreate the contents of 'datasets_cleaned')
+3. Run the cells inside 'main.ipynb' to see the analysis and visualization performed
+4. For a summary of the graphs head to the [powerpoint slides](https://google.com)
