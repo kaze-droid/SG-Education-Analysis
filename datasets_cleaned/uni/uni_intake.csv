@@ -1,20 +1,20 @@
 year,sex,course,intake,enrolment,graduates
 2005,M,Business,990,2744,569
 2005,F,Business,1431,4830,1393
-2005,M,Architecture and Built Environment,124,524,74
-2005,F,Architecture and Built Environment,175,786,106
+2005,M,Architecture,124,524,74
+2005,F,Architecture,175,786,106
 2005,M,Dentistry,14,72,22
 2005,F,Dentistry,19,67,12
 2005,M,Education,0,0,0
 2005,F,Education,0,0,0
 2005,M,Engineering,2858,11731,2659
 2005,F,Engineering,1170,4868,1200
-2005,M,Arts` Humanities and the Social Sciences,709,2252,448
-2005,F,Arts` Humanities and the Social Sciences,1915,5598,1370
+2005,M,Arts,709,2252,448
+2005,F,Arts,1915,5598,1370
 2005,M,Health Sciences,27,81,16
 2005,F,Health Sciences,149,352,69
-2005,M,Information & Digital Technologies,493,1591,362
-2005,F,Information & Digital Technologies,280,765,200
+2005,M,IT,493,1591,362
+2005,F,IT,280,765,200
 2005,M,Law,95,346,62
 2005,F,Law,125,498,125
 2005,M,Medicine,130,690,123
@@ -23,20 +23,20 @@ year,sex,course,intake,enrolment,graduates
 2005,F,Sciences,1004,3416,769
 2006,M,Business,1114,3218,608
 2006,F,Business,1592,5116,1286
-2006,M,Architecture and Built Environment,153,526,136
-2006,F,Architecture and Built Environment,226,810,193
+2006,M,Architecture,153,526,136
+2006,F,Architecture,226,810,193
 2006,M,Dentistry,16,70,18
 2006,F,Dentistry,26,78,14
 2006,M,Education,0,0,0
 2006,F,Education,0,0,0
 2006,M,Engineering,3076,11969,2674
 2006,F,Engineering,1025,4694,1137
-2006,M,Arts` Humanities and the Social Sciences,915,2663,504
-2006,F,Arts` Humanities and the Social Sciences,2139,6288,1419
+2006,M,Arts,915,2663,504
+2006,F,Arts,2139,6288,1419
 2006,M,Health Sciences,39,94,24
 2006,F,Health Sciences,201,489,57
-2006,M,Information & Digital Technologies,543,1709,401
-2006,F,Information & Digital Technologies,185,796,139
+2006,M,IT,543,1709,401
+2006,F,IT,185,796,139
 2006,M,Law,136,409,70
 2006,F,Law,102,463,134
 2006,M,Medicine,132,685,135
@@ -45,20 +45,20 @@ year,sex,course,intake,enrolment,graduates
 2006,F,Sciences,1348,3755,955
 2007,M,Business,1039,3472,751
 2007,F,Business,1694,5277,1467
-2007,M,Architecture and Built Environment,140,545,111
-2007,F,Architecture and Built Environment,313,934,177
+2007,M,Architecture,140,545,111
+2007,F,Architecture,313,934,177
 2007,M,Dentistry,16,65,21
 2007,F,Dentistry,26,89,15
 2007,M,Education,0,0,0
 2007,F,Education,0,0,0
 2007,M,Engineering,2872,11489,3108
 2007,F,Engineering,1192,4553,1258
-2007,M,Arts` Humanities and the Social Sciences,920,3003,540
-2007,F,Arts` Humanities and the Social Sciences,2387,7314,1305
+2007,M,Arts,920,3003,540
+2007,F,Arts,2387,7314,1305
 2007,M,Health Sciences,52,128,19
 2007,F,Health Sciences,207,617,67
-2007,M,Information & Digital Technologies,527,1836,367
-2007,F,Information & Digital Technologies,249,824,206
+2007,M,IT,527,1836,367
+2007,F,IT,249,824,206
 2007,M,Law,124,457,84
 2007,F,Law,208,547,123
 2007,M,Medicine,134,671,144
@@ -67,20 +67,20 @@ year,sex,course,intake,enrolment,graduates
 2007,F,Sciences,1415,4232,869
 2008,M,Business,1010,3654,798
 2008,F,Business,1581,5333,1495
-2008,M,Architecture and Built Environment,180,578,136
-2008,F,Architecture and Built Environment,272,952,232
+2008,M,Architecture,180,578,136
+2008,F,Architecture,272,952,232
 2008,M,Dentistry,23,70,18
 2008,F,Dentistry,21,93,17
 2008,M,Education,0,0,0
 2008,F,Education,0,0,0
 2008,M,Engineering,2534,10266,2633
 2008,F,Engineering,1064,4102,1254
-2008,M,Arts` Humanities and the Social Sciences,1024,3409,582
-2008,F,Arts` Humanities and the Social Sciences,2269,7986,1537
+2008,M,Arts,1024,3409,582
+2008,F,Arts,2269,7986,1537
 2008,M,Health Sciences,62,176,10
 2008,F,Health Sciences,185,712,77
-2008,M,Information & Digital Technologies,726,2760,625
-2008,F,Information & Digital Technologies,307,1021,275
+2008,M,IT,726,2760,625
+2008,F,IT,307,1021,275
 2008,M,Law,135,494,94
 2008,F,Law,221,649,115
 2008,M,Medicine,133,670,131
@@ -89,20 +89,20 @@ year,sex,course,intake,enrolment,graduates
 2008,F,Sciences,1333,4651,856
 2009,M,Business,1174,3851,969
 2009,F,Business,1487,5329,1450
-2009,M,Architecture and Built Environment,180,632,120
-2009,F,Architecture and Built Environment,254,1027,163
+2009,M,Architecture,180,632,120
+2009,F,Architecture,254,1027,163
 2009,M,Dentistry,19,77,12
 2009,F,Dentistry,29,103,19
 2009,M,Education,0,0,0
 2009,F,Education,0,0,0
 2009,M,Engineering,2921,10304,2753
 2009,F,Engineering,1278,4218,1117
-2009,M,Arts` Humanities and the Social Sciences,1152,3850,669
-2009,F,Arts` Humanities and the Social Sciences,2428,8496,1858
+2009,M,Arts,1152,3850,669
+2009,F,Arts,2428,8496,1858
 2009,M,Health Sciences,91,242,22
 2009,F,Health Sciences,204,800,107
-2009,M,Information & Digital Technologies,671,2843,441
-2009,F,Information & Digital Technologies,320,1132,175
+2009,M,IT,671,2843,441
+2009,F,IT,320,1132,175
 2009,M,Law,197,610,89
 2009,F,Law,186,711,118
 2009,M,Medicine,134,682,122
@@ -111,20 +111,20 @@ year,sex,course,intake,enrolment,graduates
 2009,F,Sciences,1382,4932,1040
 2010,M,Business,1186,3962,1038
 2010,F,Business,1590,5446,1409
-2010,M,Architecture and Built Environment,146,669,90
-2010,F,Architecture and Built Environment,280,1117,173
+2010,M,Architecture,146,669,90
+2010,F,Architecture,280,1117,173
 2010,M,Dentistry,17,76,16
 2010,F,Dentistry,31,108,25
 2010,M,Education,0,0,0
 2010,F,Education,0,0,0
 2010,M,Engineering,2936,10889,2840
 2010,F,Engineering,1144,4498,946
-2010,M,Arts` Humanities and the Social Sciences,1171,4138,879
-2010,F,Arts` Humanities and the Social Sciences,2351,8884,1948
+2010,M,Arts,1171,4138,879
+2010,F,Arts,2351,8884,1948
 2010,M,Health Sciences,87,281,39
 2010,F,Health Sciences,189,783,196
-2010,M,Information & Digital Technologies,663,2287,469
-2010,F,Information & Digital Technologies,276,1068,162
+2010,M,IT,663,2287,469
+2010,F,IT,276,1068,162
 2010,M,Law,175,640,138
 2010,F,Law,175,783,89
 2010,M,Medicine,139,685,134
@@ -133,20 +133,20 @@ year,sex,course,intake,enrolment,graduates
 2010,F,Sciences,1297,4949,1172
 2011,M,Business,1209,4170,965
 2011,F,Business,1528,5481,1451
-2011,M,Architecture and Built Environment,160,694,121
-2011,F,Architecture and Built Environment,315,1163,247
+2011,M,Architecture,160,694,121
+2011,F,Architecture,315,1163,247
 2011,M,Dentistry,19,79,16
 2011,F,Dentistry,29,111,26
 2011,M,Education,104,451,103
 2011,F,Education,293,1301,303
 2011,M,Engineering,3007,11026,2772
 2011,F,Engineering,1241,4598,1119
-2011,M,Arts` Humanities and the Social Sciences,1117,4216,857
-2011,F,Arts` Humanities and the Social Sciences,2244,8152,2087
+2011,M,Arts,1117,4216,857
+2011,F,Arts,2244,8152,2087
 2011,M,Health Sciences,83,319,42
 2011,F,Health Sciences,264,820,213
-2011,M,Information & Digital Technologies,693,2465,388
-2011,F,Information & Digital Technologies,364,1178,195
+2011,M,IT,693,2465,388
+2011,F,IT,364,1178,195
 2011,M,Law,192,706,121
 2011,F,Law,172,742,208
 2011,M,Medicine,132,681,136
@@ -155,20 +155,20 @@ year,sex,course,intake,enrolment,graduates
 2011,F,Sciences,1335,4482,1217
 2012,M,Business,1274,4390,1019
 2012,F,Business,1671,5684,1414
-2012,M,Architecture and Built Environment,179,710,155
-2012,F,Architecture and Built Environment,216,1119,241
+2012,M,Architecture,179,710,155
+2012,F,Architecture,216,1119,241
 2012,M,Dentistry,23,81,21
 2012,F,Dentistry,30,120,21
 2012,M,Education,73,408,111
 2012,F,Education,344,1130,503
 2012,M,Engineering,3092,11400,2608
 2012,F,Engineering,1344,4785,1119
-2012,M,Arts` Humanities and the Social Sciences,1168,4442,936
-2012,F,Arts` Humanities and the Social Sciences,2392,8717,1911
+2012,M,Arts,1168,4442,936
+2012,F,Arts,2392,8717,1911
 2012,M,Health Sciences,88,345,61
 2012,F,Health Sciences,359,948,218
-2012,M,Information & Digital Technologies,674,2617,484
-2012,F,Information & Digital Technologies,354,1236,280
+2012,M,IT,674,2617,484
+2012,F,IT,354,1236,280
 2012,M,Law,183,757,140
 2012,F,Law,191,717,207
 2012,M,Medicine,143,695,129
@@ -177,20 +177,20 @@ year,sex,course,intake,enrolment,graduates
 2012,F,Sciences,1382,4625,1074
 2013,M,Business,1309,4550,1092
 2013,F,Business,1656,5680,1585
-2013,M,Architecture and Built Environment,182,760,143
-2013,F,Architecture and Built Environment,222,1123,258
+2013,M,Architecture,182,760,143
+2013,F,Architecture,222,1123,258
 2013,M,Dentistry,23,83,21
 2013,F,Dentistry,31,124,27
 2013,M,Education,68,307,163
 2013,F,Education,246,975,402
 2013,M,Engineering,3251,11294,3070
 2013,F,Engineering,1482,4893,1242
-2013,M,Arts` Humanities and the Social Sciences,1444,4722,1154
-2013,F,Arts` Humanities and the Social Sciences,2716,9039,2363
+2013,M,Arts,1444,4722,1154
+2013,F,Arts,2716,9039,2363
 2013,M,Health Sciences,137,387,95
 2013,F,Health Sciences,404,1054,296
-2013,M,Information & Digital Technologies,735,2737,573
-2013,F,Information & Digital Technologies,351,1321,251
+2013,M,IT,735,2737,573
+2013,F,IT,351,1321,251
 2013,M,Law,195,755,189
 2013,F,Law,208,736,179
 2013,M,Medicine,165,725,134
@@ -199,20 +199,20 @@ year,sex,course,intake,enrolment,graduates
 2013,F,Sciences,1430,4715,1257
 2014,M,Business,1492,4892,1104
 2014,F,Business,1925,6053,1495
-2014,M,Architecture and Built Environment,156,777,146
-2014,F,Architecture and Built Environment,314,1213,258
+2014,M,Architecture,156,777,146
+2014,F,Architecture,314,1213,258
 2014,M,Dentistry,16,84,15
 2014,F,Dentistry,38,132,30
 2014,M,Education,68,252,120
 2014,F,Education,233,813,388
 2014,M,Engineering,3497,11556,3047
 2014,F,Engineering,1441,5050,1174
-2014,M,Arts` Humanities and the Social Sciences,1309,4857,1147
-2014,F,Arts` Humanities and the Social Sciences,2619,9420,2181
+2014,M,Arts,1309,4857,1147
+2014,F,Arts,2619,9420,2181
 2014,M,Health Sciences,165,422,124
 2014,F,Health Sciences,379,1076,309
-2014,M,Information & Digital Technologies,823,2809,708
-2014,F,Information & Digital Technologies,343,1343,289
+2014,M,IT,823,2809,708
+2014,F,IT,343,1343,289
 2014,M,Law,227,799,180
 2014,F,Law,170,715,176
 2014,M,Medicine,197,784,134
@@ -221,20 +221,20 @@ year,sex,course,intake,enrolment,graduates
 2014,F,Sciences,1357,4922,1103
 2015,M,Business,1488,5150,1251
 2015,F,Business,2102,6711,1404
-2015,M,Architecture and Built Environment,157,784,188
-2015,F,Architecture and Built Environment,262,1189,351
+2015,M,Architecture,157,784,188
+2015,F,Architecture,262,1189,351
 2015,M,Dentistry,20,85,19
 2015,F,Dentistry,34,134,32
 2015,M,Education,47,204,96
 2015,F,Education,247,751,305
 2015,M,Engineering,3505,11707,3078
 2015,F,Engineering,1429,4970,1296
-2015,M,Arts` Humanities and the Social Sciences,1400,5052,1126
-2015,F,Arts` Humanities and the Social Sciences,2677,9963,2001
+2015,M,Arts,1400,5052,1126
+2015,F,Arts,2677,9963,2001
 2015,M,Health Sciences,152,441,128
 2015,F,Health Sciences,417,1126,353
-2015,M,Information & Digital Technologies,858,3049,689
-2015,F,Information & Digital Technologies,389,1492,377
+2015,M,IT,858,3049,689
+2015,F,IT,389,1492,377
 2015,M,Law,234,844,187
 2015,F,Law,171,706,168
 2015,M,Medicine,214,860,137
@@ -243,20 +243,20 @@ year,sex,course,intake,enrolment,graduates
 2015,F,Sciences,1288,4989,1145
 2016,M,Business,1568,5465,1190
 2016,F,Business,2149,7139,1633
-2016,M,Architecture and Built Environment,167,775,185
-2016,F,Architecture and Built Environment,252,1205,274
+2016,M,Architecture,167,775,185
+2016,F,Architecture,252,1205,274
 2016,M,Dentistry,15,75,25
 2016,F,Dentistry,39,145,28
 2016,M,Education,45,166,79
 2016,F,Education,172,577,327
 2016,M,Engineering,3664,12116,3016
 2016,F,Engineering,1333,4859,1267
-2016,M,Arts` Humanities and the Social Sciences,1308,5249,1095
-2016,F,Arts` Humanities and the Social Sciences,2760,10385,2267
+2016,M,Arts,1308,5249,1095
+2016,F,Arts,2760,10385,2267
 2016,M,Health Sciences,205,525,112
 2016,F,Health Sciences,593,1335,368
-2016,M,Information & Digital Technologies,981,3311,670
-2016,F,Information & Digital Technologies,398,1499,381
+2016,M,IT,981,3311,670
+2016,F,IT,398,1499,381
 2016,M,Law,189,853,178
 2016,F,Law,210,740,173
 2016,M,Medicine,206,933,131
@@ -265,20 +265,20 @@ year,sex,course,intake,enrolment,graduates
 2016,F,Sciences,1240,4967,1195
 2017,M,Business,1662,5763,1308
 2017,F,Business,2239,7628,1661
-2017,M,Architecture and Built Environment,191,793,195
-2017,F,Architecture and Built Environment,219,1222,238
+2017,M,Architecture,191,793,195
+2017,F,Architecture,219,1222,238
 2017,M,Dentistry,24,76,23
 2017,F,Dentistry,30,141,33
 2017,M,Education,20,125,54
 2017,F,Education,150,502,206
 2017,M,Engineering,3781,12399,3132
 2017,F,Engineering,1474,4770,1343
-2017,M,Arts` Humanities and the Social Sciences,1428,5374,1259
-2017,F,Arts` Humanities and the Social Sciences,2600,10408,2465
+2017,M,Arts,1428,5374,1259
+2017,F,Arts,2600,10408,2465
 2017,M,Health Sciences,259,633,142
 2017,F,Health Sciences,703,1611,410
-2017,M,Information & Digital Technologies,1131,3761,647
-2017,F,Information & Digital Technologies,448,1599,330
+2017,M,IT,1131,3761,647
+2017,F,IT,448,1599,330
 2017,M,Law,190,847,187
 2017,F,Law,201,741,188
 2017,M,Medicine,229,1016,145
@@ -287,20 +287,20 @@ year,sex,course,intake,enrolment,graduates
 2017,F,Sciences,815,4544,1308
 2018,M,Business,1774,6062,1416
 2018,F,Business,2432,8175,1767
-2018,M,Architecture and Built Environment,178,803,174
-2018,F,Architecture and Built Environment,280,1190,343
+2018,M,Architecture,178,803,174
+2018,F,Architecture,280,1190,343
 2018,M,Dentistry,27,89,14
 2018,F,Dentistry,33,135,39
 2018,M,Education,35,100,57
 2018,F,Education,185,449,226
 2018,M,Engineering,3729,12747,3154
 2018,F,Engineering,1484,4909,1226
-2018,M,Arts` Humanities and the Social Sciences,1364,5413,1269
-2018,F,Arts` Humanities and the Social Sciences,2824,10683,2491
+2018,M,Arts,1364,5413,1269
+2018,F,Arts,2824,10683,2491
 2018,M,Health Sciences,273,751,150
 2018,F,Health Sciences,728,1927,385
-2018,M,Information & Digital Technologies,1354,4238,871
-2018,F,Information & Digital Technologies,685,1905,373
+2018,M,IT,1354,4238,871
+2018,F,IT,685,1905,373
 2018,M,Law,254,890,238
 2018,F,Law,226,818,165
 2018,M,Medicine,229,1079,166
@@ -309,20 +309,20 @@ year,sex,course,intake,enrolment,graduates
 2018,F,Sciences,916,4136,1271
 2019,M,Business,1904,6461,1435
 2019,F,Business,2639,8695,2008
-2019,M,Architecture and Built Environment,204,847,182
-2019,F,Architecture and Built Environment,288,1173,310
+2019,M,Architecture,204,847,182
+2019,F,Architecture,288,1173,310
 2019,M,Dentistry,21,91,19
 2019,F,Dentistry,39,141,33
 2019,M,Education,34,106,33
 2019,F,Education,156,500,102
 2019,M,Engineering,3628,13026,3232
 2019,F,Engineering,1473,5106,1207
-2019,M,Arts` Humanities and the Social Sciences,1326,5388,1295
-2019,F,Arts` Humanities and the Social Sciences,2794,10862,2551
+2019,M,Arts,1326,5388,1295
+2019,F,Arts,2794,10862,2551
 2019,M,Health Sciences,261,852,154
 2019,F,Health Sciences,784,2255,430
-2019,M,Information & Digital Technologies,1646,5012,803
-2019,F,Information & Digital Technologies,874,2374,383
+2019,M,IT,1646,5012,803
+2019,F,IT,874,2374,383
 2019,M,Law,250,912,217
 2019,F,Law,215,862,155
 2019,M,Medicine,236,1117,194
@@ -331,20 +331,20 @@ year,sex,course,intake,enrolment,graduates
 2019,F,Sciences,1023,3904,1196
 2020,M,Business,1895,6814,1495
 2020,F,Business,2851,9443,2021
-2020,M,Architecture and Built Environment,179,840,168
-2020,F,Architecture and Built Environment,304,1183,258
+2020,M,Architecture,179,840,168
+2020,F,Architecture,304,1183,258
 2020,M,Dentistry,13,88,16
 2020,F,Dentistry,59,165,35
 2020,M,Education,31,113,30
 2020,F,Education,153,577,115
 2020,M,Engineering,3722,12901,3375
 2020,F,Engineering,1503,5149,1246
-2020,M,Arts` Humanities and the Social Sciences,1233,5265,1325
-2020,F,Arts` Humanities and the Social Sciences,2533,10672,2651
+2020,M,Arts,1233,5265,1325
+2020,F,Arts,2533,10672,2651
 2020,M,Health Sciences,257,892,202
 2020,F,Health Sciences,761,2455,522
-2020,M,Information & Digital Technologies,2017,6014,970
-2020,F,Information & Digital Technologies,846,2797,397
+2020,M,IT,2017,6014,970
+2020,F,IT,846,2797,397
 2020,M,Law,204,916,190
 2020,F,Law,259,907,204
 2020,M,Medicine,253,1158,208
