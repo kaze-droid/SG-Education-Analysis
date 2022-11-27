@@ -46,7 +46,6 @@ Notes: _Courses are grouped into course clusters based on the Graduate Employmen
 | Employment (2019-2021) | https://www.moe.gov.sg/-/media/files/post-secondary/ges-2021/joint-web-publication-4-aus-ges2021.ashx?la=en&hash=2CB3200A8C1B7D935D0253470072DE82DDF49B42
 | Intake by course (UNI) | https://data.gov.sg/dataset/universities-intake-enrolment-and-graduates-by-course|
 | Intake by course (Poly) | https://data.gov.sg/dataset/polytechnics-intake-enrolment-and-graduates-by-course|
-| Intake by course (ITE) | https://data.gov.sg/dataset/intake-of-students-trainees-under-the-full-time-institutional-training-and-traineeship-programmes|
 
 _The first two datasets are from MOE while the last three datasets are from Data.gov.sg_
 

@@ -1,0 +1,53 @@
+Chart 1
+Medicine, Law and IT have the top three highest gross median salary.
+For IT, the gross median salary has been gradually increasing over the past three years. On the contrary,
+the gross median salary for Medicine has been decreasing over the past three years.
+
+Those who are in STEM jobs are not necessarily paid more (at least in the first year of graduating which is when the salary of graduates were collected). 
+This can be seen where the average gross median salary of Education is higher than Science, Health Sciences and even Architecture.
+
+Chart 2
+In the past ten years, enrollment into Universities has increased for all the courses and for both genders.
+In general, there are more Males are enrolled in STEM courses while more Female are enrolled in Non-STEM courses
+The increase in enrollment for female in STEM courses is not as significant as the increase in enrollment for male in STEM courses or the increase in enrollment for female in 
+Non-stem courses. => There might be an underlying reason for the underrepresentation of Women in STEM courses
+                     that contributes to the lack of female in STEM such as gender bias or a lack of role models
+
+Chart 3
+The histogram is bimodal and skewed towards the right 
+/http://media.news.health.ufl.edu/misc/bolt/Intro/PHC6050-6052/Unit1/0105-Transcript-Describing-Distributions.pdf
+
+Skewed to the right (positively-skewed): Since the mean is more than the median and also due to observing shape of the normal distribution curve.
+The histogram also has two peaks, one at 3687.5 ((3500+3875)/2) and the another smaller peak at 4875. This suggests that there are two groups in the distribution of gross median salary
+(likely being one for STEM jobs and one for non-STEM jobs as STEM jobs are more likely to pay higher salaries)
+
+Chart 4
+Context:
+According to the source, employment rate is the percentage of graduates employed as a proportion of graduates who are available for work.
+Full time Employment Rate on the other hand refers to employment of at least 35 hours a week and where the employment is not temporary.
+
+Comparing FT Employment with Empployment:
+According to the boxplot chart, the median employment rate is slightly higher than the median full time employment rate for both STEM and Non-STEM courses (about 5%).
+This suggests that the number of graduates who are employed full time is only slightly lower than the number of graduates who are employed in general.
+
+The range and IQR of those who are employed is significantly less than those who are employed full time.
+This means that rate of employment for those who are employed in general is much more consistent over the years.
+For those who are employed full time, the rate of employment is more variable over the years which means there is either a very high FT employment rate or a very low FT employmnet.
+
+Comparing STEM with Non-STEM:
+The difference in median for STEM and Non-STEM is quite small and insignificant for both FT employment and employment in general suggesting that on average, your chance of getting employed is not
+affected by whether you are studying a STEM course or not. 
+(However this does not mean that your course does not affect your chance of getting employed. It just means that STEM courses do not have a higher chance of getting employed than Non-STEM courses)
+
+For employment in general the IQR and range of STEM is slightly higher than Non-STEM is roughly the same.
+But for full-time employment, the IQR and range of STEM is significantly smaller than Non-STEM.
+This suggests that the rate of full-time employment for STEM is more consistent over the years and different courses than Non-STEM.
+This contrasts the full-time employment rate for Non-STEM which is more variable over the years ranging from 42% to 100% depending on the year and course.
+
+
+Chart 5
+
+
+
+
+
